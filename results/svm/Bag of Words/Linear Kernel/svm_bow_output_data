@@ -1,0 +1,87 @@
+data.csv SVM BoW size all
+
+
+10% TRAIN DATA
+Accuracy: 0.8046849582474785
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.69      0.68      0.69      2898
+     Neutral       0.31      0.26      0.29      1985
+    Positive       0.89      0.91      0.90     13559
+
+    accuracy                           0.80     18442
+   macro avg       0.63      0.62      0.62     18442
+weighted avg       0.79      0.80      0.80     18442
+
+
+__________________________________________________________
+
+30% TRAIN DATA
+Accuracy: 0.8110708310094813
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.69      0.71      0.70      2275
+     Neutral       0.32      0.28      0.30      1528
+    Positive       0.90      0.91      0.90     10541
+
+    accuracy                           0.81     14344
+   macro avg       0.64      0.63      0.63     14344
+weighted avg       0.81      0.81      0.81     14344
+
+__________________________________________________________
+
+
+50% TRAIN DATA
+Accuracy: 0.8155377708374
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.70      0.73      0.71      1606
+     Neutral       0.32      0.30      0.31      1095
+    Positive       0.91      0.91      0.91      7545
+
+    accuracy                           0.82     10246
+   macro avg       0.64      0.65      0.65     10246
+weighted avg       0.81      0.82      0.81     10246
+
+__________________________________________________________
+
+70% TRAIN DATA
+Accuracy: 0.8256343526350033
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.70      0.74      0.72       955
+     Neutral       0.36      0.35      0.36       645
+    Positive       0.92      0.91      0.91      4548
+
+    accuracy                           0.83      6148
+   macro avg       0.66      0.67      0.66      6148
+weighted avg       0.83      0.83      0.83      6148
+
+__________________________________________________________
+
+90% TRAIN DATA
+Accuracy: 0.8268292682926829
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.70      0.72      0.71       309
+     Neutral       0.35      0.33      0.34       216
+    Positive       0.92      0.92      0.92      1525
+
+    accuracy                           0.83      2050
+   macro avg       0.66      0.66      0.66      2050
+weighted avg       0.82      0.83      0.83      2050
+
+
+
+
+All:
+0.9 - 0.8046849582474785
+0.7 - 0.8110708310094813
+0.5 - 0.8155377708374
+0.3 - 0.8256343526350033
+0.1 - 0.8268292682926829

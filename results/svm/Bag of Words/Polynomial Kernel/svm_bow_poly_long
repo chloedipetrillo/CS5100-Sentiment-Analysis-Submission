@@ -1,0 +1,86 @@
+data.csv SVM BoW POLY kernel size all
+
+
+10% TRAIN DATA
+
+Accuracy: 0.731319813469255
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.58      0.10      0.17      2898
+     Neutral       0.18      0.05      0.08      1985
+    Positive       0.75      0.97      0.85     13559
+
+    accuracy                           0.73     18442
+   macro avg       0.50      0.37      0.37     18442
+weighted avg       0.67      0.73      0.66     18442
+
+________________________________________________________________
+
+
+30% TRAIN DATA
+
+Accuracy: 0.7396820970440602
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.66      0.16      0.25      2275
+     Neutral       0.21      0.07      0.11      1528
+    Positive       0.76      0.96      0.85     10541
+
+    accuracy                           0.74     14344
+   macro avg       0.55      0.40      0.41     14344
+weighted avg       0.69      0.74      0.68     14344
+
+
+________________________________________________________________
+
+
+50% TRAIN DATA
+
+Accuracy: 0.7468280304509076
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.68      0.18      0.28      1606
+     Neutral       0.22      0.07      0.10      1095
+    Positive       0.77      0.97      0.86      7545
+
+    accuracy                           0.75     10246
+   macro avg       0.56      0.40      0.41     10246
+weighted avg       0.70      0.75      0.69     10246
+
+________________________________________________________________
+
+
+70% TRAIN DATA
+
+
+Accuracy: 0.7560182173064411
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.71      0.20      0.31       955
+     Neutral       0.25      0.08      0.12       645
+    Positive       0.78      0.97      0.86      4548
+
+    accuracy                           0.76      6148
+   macro avg       0.58      0.42      0.43      6148
+weighted avg       0.71      0.76      0.70      6148
+
+________________________________________________________________
+
+
+90% TRAIN DATA
+
+Accuracy: 0.7595121951219512
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.69      0.19      0.30       309
+     Neutral       0.24      0.07      0.11       216
+    Positive       0.78      0.97      0.87      1525
+
+    accuracy                           0.76      2050
+   macro avg       0.57      0.41      0.43      2050
+weighted avg       0.71      0.76      0.70      2050

@@ -1,0 +1,200 @@
+data.csv NB LOG
+
+
+10% TRAIN DATA
+
+Right:  15012
+Wrong:  3430
+Accuracy:  0.8140114954994035
+Naive Bayes Accuracy: 0.8140114954994035
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.83      0.56      0.67      2898
+     Neutral       0.25      0.02      0.03      1985
+    Positive       0.82      0.98      0.89     13559
+
+    accuracy                           0.81     18442
+   macro avg       0.63      0.52      0.53     18442
+weighted avg       0.76      0.81      0.77     18442
+
+
+________________________________________________________________
+
+
+20% TRAIN DATA
+
+
+Right:  13529
+Wrong:  2864
+Accuracy:  0.8252912828646374
+Naive Bayes Accuracy: 0.8252912828646374
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.82      0.63      0.71      2587
+     Neutral       0.31      0.03      0.06      1754
+    Positive       0.83      0.98      0.90     12052
+
+    accuracy                           0.83     16393
+   macro avg       0.65      0.55      0.56     16393
+weighted avg       0.77      0.83      0.78     16393
+
+
+________________________________________________________________
+
+
+30% TRAIN DATA
+
+Right:  11902
+Wrong:  2442
+Accuracy:  0.8297546012269938
+Naive Bayes Accuracy: 0.8297546012269938
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.82      0.66      0.73      2275
+     Neutral       0.33      0.04      0.07      1528
+    Positive       0.84      0.98      0.90     10541
+
+    accuracy                           0.83     14344
+   macro avg       0.66      0.56      0.57     14344
+weighted avg       0.78      0.83      0.79     14344
+
+
+________________________________________________________________
+
+
+40% TRAIN DATA
+
+Right:  10277
+Wrong:  2018
+Accuracy:  0.8358682391215941
+Naive Bayes Accuracy: 0.8358682391215941
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.81      0.70      0.75      1938
+     Neutral       0.37      0.05      0.09      1309
+    Positive       0.85      0.98      0.91      9048
+
+    accuracy                           0.84     12295
+   macro avg       0.68      0.58      0.58     12295
+weighted avg       0.79      0.84      0.80     12295
+
+
+________________________________________________________________
+
+
+50% TRAIN DATA
+
+Right:  8556
+Wrong:  1690
+Accuracy:  0.8350575834471989
+Naive Bayes Accuracy: 0.8350575834471989
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.81      0.70      0.75      1606
+     Neutral       0.35      0.05      0.08      1095
+    Positive       0.85      0.98      0.91      7545
+
+    accuracy                           0.84     10246
+   macro avg       0.67      0.57      0.58     10246
+weighted avg       0.79      0.84      0.80     10246
+
+
+________________________________________________________________
+
+
+60% TRAIN DATA
+
+Right:  6851
+Wrong:  1346
+Accuracy:  0.8357935830181774
+Naive Bayes Accuracy: 0.8357935830181774
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.79      0.69      0.74      1290
+     Neutral       0.35      0.05      0.09       856
+    Positive       0.85      0.98      0.91      6051
+
+    accuracy                           0.84      8197
+   macro avg       0.67      0.57      0.58      8197
+weighted avg       0.79      0.84      0.80      8197
+
+
+________________________________________________________________
+
+
+70% TRAIN DATA
+
+Right:  5146
+Wrong:  1002
+Accuracy:  0.8370201691607027
+Naive Bayes Accuracy: 0.8370201691607027
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.80      0.70      0.74       955
+     Neutral       0.37      0.06      0.11       645
+    Positive       0.85      0.98      0.91      4548
+
+    accuracy                           0.84      6148
+   macro avg       0.67      0.58      0.59      6148
+weighted avg       0.79      0.84      0.80      6148
+
+
+________________________________________________________________
+
+
+80% TRAIN DATA
+
+Right:  3434
+Wrong:  665
+Accuracy:  0.8377653086118565
+Naive Bayes Accuracy: 0.8377653086118565
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.79      0.72      0.75       625
+     Neutral       0.31      0.06      0.10       432
+    Positive       0.86      0.97      0.91      3042
+
+    accuracy                           0.84      4099
+   macro avg       0.65      0.58      0.59      4099
+weighted avg       0.79      0.84      0.80      4099
+
+________________________________________________________________
+
+
+90% TRAIN DATA
+
+Right:  1726
+Wrong:  324
+Accuracy:  0.8419512195121951
+Naive Bayes Accuracy: 0.8419512195121951
+Naive Bayes Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.80      0.72      0.76       309
+     Neutral       0.40      0.08      0.14       216
+    Positive       0.86      0.97      0.91      1525
+
+    accuracy                           0.84      2050
+   macro avg       0.69      0.59      0.60      2050
+weighted avg       0.80      0.84      0.81      2050
+
+
+All:
+0.9 - 0.8140114954994035
+0.8 - 0.8252912828646374
+0.7 - 0.8297546012269938
+0.6 - 0.8358682391215941
+0.5 - 0.8350575834471989
+0.4 - 0.8357935830181774
+0.3 - 0.8370201691607027
+0.2 - 0.8377653086118565
+0.1 - 0.8419512195121951
+data.csv  NB LOG

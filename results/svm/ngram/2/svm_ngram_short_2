@@ -1,0 +1,88 @@
+SVM 2-gram short reviews 25000
+
+10% TRAIN DATA
+
+Accuracy: 0.7873333333333333
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.57      0.09      0.16      3257
+     Neutral       0.52      0.04      0.08      1725
+    Positive       0.79      0.99      0.88     17518
+
+    accuracy                           0.79     22500
+   macro avg       0.63      0.38      0.37     22500
+weighted avg       0.74      0.79      0.72     22500
+
+
+________________________________________________________________
+
+
+30% TRAIN DATA
+
+Accuracy: 0.7964571428571429
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.62      0.16      0.26      2514
+     Neutral       0.49      0.08      0.14      1349
+    Positive       0.81      0.98      0.89     13637
+
+    accuracy                           0.80     17500
+   macro avg       0.64      0.41      0.43     17500
+weighted avg       0.76      0.80      0.74     17500
+
+
+________________________________________________________________
+
+
+50% TRAIN DATA
+
+
+Accuracy: 0.80128
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.69      0.19      0.30      1813
+     Neutral       0.52      0.09      0.15       995
+    Positive       0.81      0.99      0.89      9692
+
+    accuracy                           0.80     12500
+   macro avg       0.67      0.42      0.45     12500
+weighted avg       0.77      0.80      0.75     12500
+
+________________________________________________________________
+
+
+70% TRAIN DATA
+
+
+Accuracy: 0.7986666666666666
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.64      0.22      0.32      1096
+     Neutral       0.53      0.09      0.16       620
+    Positive       0.81      0.98      0.89      5784
+
+    accuracy                           0.80      7500
+   macro avg       0.66      0.43      0.46      7500
+weighted avg       0.76      0.80      0.75      7500
+
+________________________________________________________________
+
+
+90% TRAIN DATA
+
+Accuracy: 0.8048
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.64      0.26      0.37       365
+     Neutral       0.53      0.11      0.18       210
+    Positive       0.82      0.98      0.89      1925
+
+    accuracy                           0.80      2500
+   macro avg       0.67      0.45      0.48      2500
+weighted avg       0.77      0.80      0.76      2500
+

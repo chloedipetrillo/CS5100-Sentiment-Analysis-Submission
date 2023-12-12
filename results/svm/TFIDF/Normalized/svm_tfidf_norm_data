@@ -1,0 +1,83 @@
+data.csv SVM TFIDF NORM size all
+
+10% TRAIN DATA
+
+Accuracy: 0.8336406029714781
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.80      0.67      0.73      2898
+     Neutral       0.61      0.03      0.06      1985
+    Positive       0.84      0.99      0.91     13559
+
+    accuracy                           0.83     18442
+   macro avg       0.75      0.56      0.56     18442
+weighted avg       0.81      0.83      0.79     18442
+
+________________________________________________________________
+
+
+30% TRAIN DATA
+
+Accuracy: 0.8499023982152817
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.80      0.73      0.76      2275
+     Neutral       0.47      0.14      0.21      1528
+    Positive       0.87      0.98      0.92     10541
+
+    accuracy                           0.85     14344
+   macro avg       0.71      0.62      0.63     14344
+weighted avg       0.82      0.85      0.82     14344
+
+________________________________________________________________
+
+
+50% TRAIN DATA
+
+Accuracy: 0.8556509857505368
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.79      0.75      0.77      1606
+     Neutral       0.50      0.19      0.28      1095
+    Positive       0.89      0.97      0.93      7545
+
+    accuracy                           0.86     10246
+   macro avg       0.72      0.64      0.66     10246
+weighted avg       0.83      0.86      0.83     10246
+
+________________________________________________________________
+
+
+70% TRAIN DATA
+
+Accuracy: 0.8602797657774887
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.78      0.76      0.77       955
+     Neutral       0.49      0.22      0.31       645
+    Positive       0.90      0.97      0.93      4548
+
+    accuracy                           0.86      6148
+   macro avg       0.72      0.65      0.67      6148
+weighted avg       0.84      0.86      0.84      6148
+
+________________________________________________________________
+
+
+90% TRAIN DATA
+
+Accuracy: 0.8580487804878049
+Classification Report:
+               precision    recall  f1-score   support
+
+    Negative       0.78      0.72      0.75       309
+     Neutral       0.46      0.23      0.30       216
+    Positive       0.90      0.98      0.93      1525
+
+    accuracy                           0.86      2050
+   macro avg       0.71      0.64      0.66      2050
+weighted avg       0.83      0.86      0.84      2050
